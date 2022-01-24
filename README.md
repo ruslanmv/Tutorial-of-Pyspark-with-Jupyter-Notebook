@@ -32,19 +32,29 @@ after is done you will get adirection something like
 
 copy your address a, open your favorite web browser and paste and press enter.
 
+
+
+Then click open new **Terminal**
+
 ![](data/3.jpg)
 
+and type
+
+```bash
+git clone https://github.com/ruslanmv/Tutorial-of-Pyspark-with-Jupyter-Notebook.git
+```
+
+![](data/4.jpg)
 
 
 
+Then return to your home tree and open the created folder `Tutorial-of-Pyspark-with-Jupyter-Notebook` and open the `Tutorial-Pyspark-Final.ipynb` file
+
+![](data/5.jpg)
+
+and follow the notebook by pressing shift+enter on each cell.
 
 **Great,** now we are ready to answer some questions!
-
-
-
-
-
-
 
 ### What is PySpark?
 
